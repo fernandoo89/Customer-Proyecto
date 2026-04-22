@@ -291,26 +291,13 @@ Las contribuciones son bienvenidas. Por favor:
 
 ---
 
-## 👨‍💻 Autor(es)
+## 👨‍💻 Autor
 
-- Francisco Aroni Muñoz
-- Abraham Marquina Laguna
+- Fernando Benites Mendoza 
 
-## Codigos de estudiantes
-- Francisco Aroni Muñoz : 000261414
-- Abraham Marquina Laguna:000258070
 
-- GitHub: [@franciscoam2328](https://github.com/franciscoam2328)
 
----
 
-## 🙏 Agradecimientos
-
-Queremos agradecer al **Ing. Walter Cueva**, porque sin sus clases, su paciencia infinita y sus explicaciones que a veces entendíamos a la primera… y otras a la tercera, **este proyecto no habría visto la luz ni en modo debug**. Gracias, ingeniero.
-
-También agradecemos a la **Inteligencia Artificial**, que básicamente evitó que nos quedáramos mirando la pantalla esperando una iluminación divina. Sin ella, probablemente seguiríamos preguntándonos por qué no compila.
-
-Y, por supuesto, no podemos olvidarnos de las herramientas que hicieron menos doloroso este proceso:
 
 - **Supabase**, por tener documentación tan clara que hasta nos sentimos expertos.  
 - **Tailwind CSS**, por permitir que una interfaz decente salga incluso cuando el diseñador del grupo está durmiendo.  
